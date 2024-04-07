@@ -7,7 +7,7 @@ Team Phoenix :
 
 202301243 - Chaitri Vadaviya </br>
 202301406 - Khushi Pandya</br>
-202301257 - Kanu Bhadarka</br>
+202301257 - Kanu Bhadaraka</br>
 202301428 - Sujal Mohapatra</br>
 
 IT205 capstone idea : P10
